@@ -1,0 +1,1 @@
+A data type is a set of values and a set of operations defined on them. For example, we are familiar with numbers and with operations defined on them such as addition and multiplication. There are eight different built-in types of data in Java, mostly different kinds of numbers. We use the system type for strings of characters so frequently that we also consider it here.
